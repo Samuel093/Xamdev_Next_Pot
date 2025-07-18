@@ -32,7 +32,7 @@ export default function Projects() {
                    transition: { duration: 0.2 }
                }}
                  key={project.id}  className='group relative sm:py-20 '>
-                    <PinContainer  title="/ui.aceternity.com"  >
+                    <PinContainer  title=""  >
                       <div className='relative flex items-center justify-center
                        sm:w-80 w-[60vw] overflow-hidden h-[20vh] lg:h-[30vh] mb-10'>
                         <div className='relative w-full h-full overflow-hidden lg:rounded-3xl #151030'
